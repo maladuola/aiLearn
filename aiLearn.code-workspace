@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/ai/code/web"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"highlight-icemode.backgroundColor": "red",
+		"highlight-icemode.borderColor": "blue",
+		"cursor.composer.cmdPFilePicker2": false,
+		"cursor.composer.collapsePaneInputBoxPills": false,
+		"notebook.multiCursor.enabled": false
+	}
+}
